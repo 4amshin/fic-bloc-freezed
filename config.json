@@ -1,0 +1,9 @@
+{
+    "openai_key": "",
+    "modules": [
+        "home",
+        "product_detail",
+        "/auth/login",
+        "/auth/register"
+    ]
+}
